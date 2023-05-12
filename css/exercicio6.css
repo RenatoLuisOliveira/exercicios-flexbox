@@ -1,0 +1,23 @@
+.barra1 {
+    width: 700px;
+    height: 40px;
+    background-color: green;
+}
+
+.barra2 {
+    width: 700px;
+    height: 40px;
+    background-color: red;
+}
+
+.barra3 {
+    width: 700px;
+    height: 40px;
+    background-color: blue;
+}
+
+.barra1,
+.barra2,
+.barra3 {
+    margin: 10px;
+}
